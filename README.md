@@ -1,0 +1,1 @@
+This is a basic stack for using cucumber and selenium to automate tests. 
